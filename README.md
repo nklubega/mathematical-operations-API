@@ -1,4 +1,7 @@
 # Arithmetic API
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7060b44bc97d430699994fec16dfa97d)](https://app.codacy.com/manual/nklubega/mathematical-operations-API?utm_source=github.com&utm_medium=referral&utm_content=nklubega/mathematical-operations-API&utm_campaign=Badge_Grade_Dashboard)
+
  A simple Restful API for for addition, subtraction, multiplication and division operations
 
 METHOD CHART:
